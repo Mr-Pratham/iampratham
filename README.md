@@ -3,4 +3,4 @@
 
 On my website, you can learn more about me, explore my work, and get in touch with me.
 
-* Github Pages/ Website link : ```https://mr-pratham.github.io/iampratham/```
+* Github Pages/ Website link : https://mr-pratham.github.io/iampratham/
