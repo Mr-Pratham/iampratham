@@ -1,2 +1,4 @@
-# iampratham.github.io
-My personal Website
+# Introduction
+* Welcome to my personal website's Repository! *
+
+On my website, you can learn more about me, explore my work, and get in touch with me.
